@@ -2,7 +2,7 @@
 Jupyter Notebook + Siamese Dataset
 
 ## Maintain the following data structure : 
-
+```
 I:.
 │   csc-siamese-pytorch.ipynb
 │   siamese_dataset.pt
@@ -29,7 +29,7 @@ I:.
     │       10001.jpeg
     │       10002.jpeg
     ├───────10003.jpeg
-
+```
 train.csv contains the data whether if the images are similar or not 
 
 -> ignore train.zip  , it's just the zipped form of train folder. 
